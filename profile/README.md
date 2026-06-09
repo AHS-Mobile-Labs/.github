@@ -42,7 +42,7 @@ Our goal is to contribute to the open-source ecosystem by creating useful softwa
 - OpenLib: https://www.openlib.online
 - GitHub: https://github.com/AHS-Mobile-Labs
 - Playstore: https://play.google.com/store/apps/dev?id=5787813021618858953
-- Finzo on Indus AppStore: https://www.indusappstore.com/apps/finance/finzo/com.ahsmobilelabs.finzo/?page=details&id=com.ahsmobilelabs.finzo
+- Finzo on Indus AppStore: https://bit.ly/indus-appstore-finzo
 - Itch.io: https://ahs-mobile-labs.itch.io
 - Instagram: https://www.instagram.com/ahsmobilelabs
 - Youtube: https://www.youtube.com/@AHSMobileLabs
