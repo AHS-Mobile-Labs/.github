@@ -38,7 +38,7 @@ Our goal is to contribute to the open-source ecosystem by creating useful softwa
 
 ## Links
 
-- Website: https://www.ahsmobilelabs.website (coming soon)
+- Website: https://www.ahsmobilelabs.website
 - OpenLib: https://www.openlib.online
 - GitHub: https://github.com/AHS-Mobile-Labs
 - Playstore: https://play.google.com/store/apps/dev?id=5787813021618858953
